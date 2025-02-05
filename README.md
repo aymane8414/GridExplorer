@@ -4,6 +4,9 @@
 
 Ce projet met en œuvre un algorithme de Q-Learning dans un environnement simulé avec obstacles, visant à optimiser les déplacements d'une voiture à travers une grille en évitant les obstacles, tout en maximisant les récompenses jusqu'à atteindre une case finale. Une courbe d'apprentissage est générée automatiquement pour visualiser l'évolution des performances.
 
+![Description de l’image](map_with_curve.png)
+
+
 ## Commandes pour commencer le projet
 
 Pour commencer avec ce projet, suivez les étapes ci-dessous :
